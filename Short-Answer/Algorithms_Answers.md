@@ -12,7 +12,7 @@ c) O(n).  single recursive call
 
 ## Exercise II
 
-very similar to binary search.  I would 
+very similar to binary search.  I would:
 
 1) find midpoint of building (low(1 to start) + high(n to start) //2)
 2) throw an egg off that mid floor

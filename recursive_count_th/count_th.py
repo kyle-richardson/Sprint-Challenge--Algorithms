@@ -7,7 +7,7 @@ Your function must utilize recursion. It cannot contain any loops.
 
 def count_th(word):
     added = 0
-    if len(word) == 0:
+    if len(word) < 2:
         return 0
     if word[0:2] == "th":
         added = 1
